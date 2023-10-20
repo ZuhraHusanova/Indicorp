@@ -1,0 +1,30 @@
+.navbar {
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar__col {
+    display: flex;
+}
+.navbar__col img{
+    margin-left: 195px;
+}
+
+.navbar__menu {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.2px;
+     color: #737373;
+     margin-left: 171px;
+}
+.navbar__row{
+    margin-left: 550px;
+}
